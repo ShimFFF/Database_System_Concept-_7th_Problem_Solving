@@ -1,2 +1,3 @@
-# Database_System_Concept-_7th_Problem_Solving
-Database System Concept 7th에 있는 문제 풀이
+# Database System Concept 7th Problem Solving
+책 : Database System Concept 7th
+해당 책의 문제 풀이
