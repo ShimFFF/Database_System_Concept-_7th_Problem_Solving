@@ -7,6 +7,19 @@
 
 작성자 : 심세원
 
+## 파일 작성 형식
+```
+# 문제 번호
+
+문제
+-> 문제 해석
+
+답
+
+## 풀이
+
+```
+
 ## Git Convention
 
 ### commit message structure
